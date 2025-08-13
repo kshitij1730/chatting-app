@@ -22,7 +22,7 @@ A modern, real-time messaging application built with **Node.js**, **Socket.IO**,
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/real-time-chat-app.git
+   git clone https://github.com/kshitij1730/chatting-app.git
    cd real-time-chat-app
    ```
 
